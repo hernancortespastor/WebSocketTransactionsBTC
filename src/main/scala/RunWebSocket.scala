@@ -14,7 +14,7 @@ import scala.concurrent.{Future, Promise}
 
 object RunWebSocket {
   def main(args: Array[String]) = {
-
+ //  Arguments from the command prompt.
     val kafkaserver = args(0)
 
 
