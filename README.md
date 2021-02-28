@@ -1,10 +1,10 @@
 # WebSocketTransactionsBTC
 
-Implementacion de un consumidor del WebSocket de Blockchain 'https://www.blockchain.com/es/api/api_websocket' y envío de datos en tiempo real al topic de Kafka 'transactions-raw'.
+Implementación de un consumidor del WebSocket de Blockchain 'https://www.blockchain.com/es/api/api_websocket' y envío de datos en tiempo real al topic de Kafka 'transactions-raw'.
 
 
 ## Requisitos previos.
-Servicio de Kafka dispobible.
+Servicio de Kafka disponible.
 
 Instalar Scala y SBT:
 
